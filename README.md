@@ -1,6 +1,6 @@
 Hello. This is the github for [Boone.dev's](https://boone.dev) products and various projects.
 
-### SaSS Products
+### SaaS Products
 - myd2: a crm with billing for small businesses (laravel)
 - campusprelude: an interactive tour builder for higher ed (laravel)
 - sitecopilots: WordPress services (php/react)
