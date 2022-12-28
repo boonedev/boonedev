@@ -7,7 +7,6 @@ Hello. This is the github for [Boone.dev's](https://boone.dev) products and vari
 - moja: a hosted cms (php/jquery)
 - kegpin: an asset management app and dashboard for breweries (laravel/angular)
 
-### Primary Technologies
 
 #### Languages
 <p>
