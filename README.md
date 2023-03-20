@@ -1,7 +1,7 @@
 Hello. This is the github for [Boone.dev's](https://boone.dev) products and various projects.
 
 ### SaaS Products
-- CheckPage: a WordPress plugin that helps make sites more readable, accessible, stable and secure (react/php/WordPress)
+- CheckPage: (WIP) a WordPress plugin that helps make sites more readable, accessible, stable and secure (react/php/WordPress)
 - myd2: a crm with billing for small businesses (laravel)
 - campusprelude: an interactive tour builder for higher ed (laravel)
 - sitecopilots: WordPress services (php/react)
